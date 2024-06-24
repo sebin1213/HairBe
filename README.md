@@ -32,8 +32,8 @@
 </br>
 
 ## ✨서비스 목적
-<img src="https://github.com/sebin1213/HairBe/assets/73850629/57aac208-8067-49e3-9793-de4fd181973c" style="width: 500px;">
-<img src="https://github.com/sebin1213/HairBe/assets/73850629/a656f90f-0cfa-48c3-93bf-2f433fe8ca68" style="width: 500px;">
+<img src="https://github.com/sebin1213/HairBe/assets/73850629/57aac208-8067-49e3-9793-de4fd181973c" style="width: 40%; float: right;">
+<img src="https://github.com/sebin1213/HairBe/assets/73850629/a656f90f-0cfa-48c3-93bf-2f433fe8ca68" style="width: 40%; float: right;">
 
 - 현재 뷰티시장은 퍼스널 컬러를 시작으로 **맞춤형 스타일에 대한 관심이 커지는 추세**입니다.
 - 특히 현재 시장에 나와있는 전문가를 통한 **퍼스널 헤어 진단 서비스는 최소 20만원 상당의 금액을 요구**하며 그 **수요 또한 매우 높기에 티켓팅 형식**으로 이뤄집니다.
